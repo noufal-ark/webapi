@@ -1,2 +1,2 @@
 # webapi
-?Using core dotnet
+Using core dotnet
